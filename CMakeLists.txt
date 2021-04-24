@@ -3,6 +3,6 @@ project(notelearning)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(notelearning main.cpp)
-
 add_subdirectory(effective26)
+
+add_subdirectory(effective27)
